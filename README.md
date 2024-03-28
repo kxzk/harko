@@ -12,3 +12,4 @@
 
 * [opencv](https://docs.opencv.org/4.9.0/)
 * [c docs](https://devdocs.io/c/)
+* [c by example](https://www.cbyexample.com/)
